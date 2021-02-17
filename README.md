@@ -4,13 +4,14 @@ Sorting the order (smallest to largest) of 4 numbers, without turning them into 
 This code is necessary for the starter programmers or university students (like me), who have not learnt the lists, or are banned from using the advanced techniques such as the list sorting algoirthms on leetcode
 
 
-
+------------------------------------------------------------------------------------------
 
 In prior, the readers should be able to sort the order of 3 numbers:  # 3, 4, 5
 1. find out the min and max   # 3, 5
 2. calculate the total (num1 + num2 + num3)  # 3 + 4 + 5 = 12
 3. calculate the middle value using (total - min - max)  # 12 - 3 - 5 = 4
 
+-------------------------------------------------------------------------------------------
 
 Among the 4 numbers case, we first divide the numbers in two parts randomly. Each part contains 2 of the 4 numbers.
 
