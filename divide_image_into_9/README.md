@@ -1,5 +1,7 @@
-In WeChat, users can upload at maximum 9 images, arranged in 3x3 matrix
-So it looks cool if we divide one image into nine pieces, and upload them by the order in which the fragments merges into the original image
+In WeChat, users can upload at maximum 9 images, arranged in 3x3 matrix.
+
+So it looks cool if we divide one image into nine pieces, and upload them by the order in which the fragments merges into the original image.
+
 
 For example, below is the original image (from donghua "Fairies Album 百妖谱")
 
