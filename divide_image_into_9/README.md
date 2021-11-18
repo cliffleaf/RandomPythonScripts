@@ -10,4 +10,4 @@ And below is the final product (the WeChat post)
 ![alt_text](https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/product.jpg)
 
 Test:
-<img align="left" src="https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/1.png">
+<img align="middle" src="https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/1.png">
