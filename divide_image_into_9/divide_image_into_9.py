@@ -38,12 +38,12 @@ def crop_image(image):
 def save_image(image_list):
     number = 1
     for image in image_list:
-        image.save(str(number) + ".png", "PNG")
+        image.save(str(number) + ".png", "PNG") # this saves all images into the directory of this script
         number += 1
 
 
 def main():
-    file_path = "taoyao.jpeg"
+    file_path = "" # replace it with your image directory
     image = Image.open(file_path)
     image_list = crop_image(image)
     save_image(image_list)
