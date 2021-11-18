@@ -4,3 +4,10 @@ So it looks cool if we divide one image into nine pieces, and upload them by the
 For example, below is the original image (from donghua "Fairies Album 百妖谱")
 
 ![alt text](https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/original.jpg)
+
+And below is the final product (the WeChat post)
+
+![alt_text](https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/product.jpg)
+
+Test:
+<img align="left" src="https://github.com/cliffleaf/RandomPythonScripts/blob/main/divide_image_into_9/img/1.png">
